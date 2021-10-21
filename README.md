@@ -1,2 +1,2 @@
 # gittest
-test how to use git
+that is not good enough;
