@@ -1,2 +1,2 @@
 # gittest
-test how to use git
+merge is difficult
