@@ -1,2 +1,3 @@
 # gittest
-test how to use git
+test how git do you know
+ 
